@@ -1,0 +1,55 @@
+.solid{
+      margin: auto;
+    width: 50%;
+    width:0px;height:0px;
+    content:0px 0px;
+    border-top: 100px solid gray;
+    border-right:100px solid gold;
+     border-left:100px solid gold;
+     border-bottom:100px solid gray;
+
+}
+
+
+.game{
+    margin: auto;
+    width: 50%;
+    width:200px;   height:50px;
+    background-color:aquamarine;
+    border: solid green;
+    border-bottom: dotted green;
+    border-top:double green;
+    
+    
+}
+
+.game1{ 
+    border:solid green;
+    border-top:0px;
+    margin: auto;
+    width: 50%;
+    width:150px;   height:200px;
+    background-color:aquamarine;
+    
+} 
+body{
+ background-image: url("https://s-media-cache-ak0.pinimg.com/474x/6c/78/17/6c78177cd16af0a0c09190a8f27398d1.jpg");
+      
+}
+
+.hw{
+   
+    margin:0px auto;
+}
+
+.block1, .block2,.block3{
+     margin:auto;
+    width:33.33%;
+    margin:30px 5px;
+     display:inline-block;
+     box-sizing:  border-box;
+    border:solid 2px gold;
+     width:200px;   height:50px;
+    text-align: center;
+    background-color: gold;
+}
